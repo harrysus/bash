@@ -1,1 +1,1 @@
-echo "<h1><marquee> IDN MANTAB!! <h1><marquee>" > index.html
+echo "<h1><marquee> Harry MANTAB!! <h1><marquee>" > index.html
